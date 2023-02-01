@@ -22,7 +22,7 @@ const App: React.FC = () => {
                         <div className={styles.header}>
                             <Image height={30} src={msftLogo} className={styles.msftLogo} />
                             <div className={styles.headerDivider} />
-                            <Text className={styles.headerTitle}>My First React App</Text>
+                            <Text className={styles.headerTitle}>Continuos Deployment With Terraform, GitHub and Azure</Text>
                         </div>
                         <div className={'ms-Grid-col ms-sm12 ms-lg4 ms-xl2'}>
                             <Nav
